@@ -5,8 +5,8 @@
 ### Run the following commands in the project folder
 ```
 git clone https://github.com/Subha-5/hangman-project.git
-npm install
-npm run start
+yarn
+yarn start
 ```
 #### The project will run at ```http://localhost:3000``` locally.
 
